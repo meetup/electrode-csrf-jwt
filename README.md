@@ -257,7 +257,7 @@ const options = {
 app.use(csrfMiddleware(options));
 ```
 
-Built with :heart: by [Team Electrode](https://github.com/orgs/electrode-io/people) @WalmartLabs.
+Built with :heart: by [Team Electrode](https://github.com/orgs/electrode-io/people) @WalmartLabs :heart:.
 
 [npm-image]: https://badge.fury.io/js/electrode-csrf-jwt.svg
 [npm-url]: https://npmjs.org/package/electrode-csrf-jwt
