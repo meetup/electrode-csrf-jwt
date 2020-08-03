@@ -106,9 +106,9 @@ This module by default uses the [uuid] module. However, it uses [crypto.randomBy
 
 If that's an issue, then you can set the `uuidGen` option as follows to select another UUID generator:
 
-* `"simple"` - select a [simple](./lib/simple-id-generator.js) one from this module
-* `"uuid"` - the default: uses [uuid]
-* **function** - your own function that returns the ID, which should be a URL safe string
+* `"simple"`: select a [simple](./lib/simple-id-generator.js) one from this module
+* `"uuid"`: the default: uses [uuid]
+* **function**: your own function that returns the ID, which should be a URL safe string
 
 #### Optional Skip Callbacks
 
